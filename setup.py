@@ -7,7 +7,7 @@ setup(name='cachupy',
       description='Very basic TTL cache',
       author='Patrick Bird',
       author_email='patbird@gmail.com',
-      url='https://github.com/patrickbird/catchupy',
+      url='https://github.com/patrickbird/cachupy',
       packages=['cachupy'],
 )
 
