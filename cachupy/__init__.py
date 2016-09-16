@@ -1,1 +1,1 @@
-from cachupy.cache import Cache
+from .cachupy import Cache
